@@ -1,0 +1,318 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "0": "zombiemod:item/gun",
+    "particle": "zombiemod:item/gun"
+  },
+  "gui_light": "front",
+  "elements": [
+    {
+      "from": [
+        7.2,
+        0.5,
+        7.2
+      ],
+      "to": [
+        8.8,
+        7,
+        8.8
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            5,
+            5,
+            7,
+            7
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            5,
+            5,
+            7,
+            7
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            5,
+            5,
+            7,
+            7
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            5,
+            5,
+            7,
+            7
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            5,
+            5,
+            7,
+            7
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            5,
+            5,
+            7,
+            7
+          ],
+          "texture": "#0"
+        }
+      },
+      "rotation": {
+        "origin": [
+          8,
+          8,
+          8
+        ],
+        "axis": "z",
+        "angle": -45
+      }
+    },
+    {
+      "from": [
+        6.6,
+        7,
+        6.6
+      ],
+      "to": [
+        9.4,
+        15,
+        9.4
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            1,
+            5,
+            3,
+            7
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            1,
+            5,
+            3,
+            7
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            1,
+            5,
+            3,
+            7
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            1,
+            5,
+            3,
+            7
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            1,
+            5,
+            3,
+            7
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            1,
+            5,
+            3,
+            7
+          ],
+          "texture": "#0"
+        }
+      },
+      "rotation": {
+        "origin": [
+          8,
+          8,
+          8
+        ],
+        "axis": "z",
+        "angle": -45
+      }
+    },
+    {
+      "from": [
+        6.5,
+        10,
+        6.5
+      ],
+      "to": [
+        9.5,
+        10.6,
+        9.5
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            5,
+            5,
+            7,
+            7
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            5,
+            5,
+            7,
+            7
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            5,
+            5,
+            7,
+            7
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            5,
+            5,
+            7,
+            7
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            5,
+            5,
+            7,
+            7
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            5,
+            5,
+            7,
+            7
+          ],
+          "texture": "#0"
+        }
+      },
+      "rotation": {
+        "origin": [
+          8,
+          8,
+          8
+        ],
+        "axis": "z",
+        "angle": -45
+      }
+    },
+    {
+      "from": [
+        7,
+        0,
+        7
+      ],
+      "to": [
+        9,
+        0.6,
+        9
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            13,
+            1,
+            15,
+            3
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            13,
+            1,
+            15,
+            3
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            13,
+            1,
+            15,
+            3
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            13,
+            1,
+            15,
+            3
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            13,
+            1,
+            15,
+            3
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            13,
+            1,
+            15,
+            3
+          ],
+          "texture": "#0"
+        }
+      },
+      "rotation": {
+        "origin": [
+          8,
+          8,
+          8
+        ],
+        "axis": "z",
+        "angle": -45
+      }
+    }
+  ]
+}

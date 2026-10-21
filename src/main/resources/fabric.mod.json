@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "zombiemod",
+  "version": "${version}",
+  "name": "Zombie Apocalypse",
+  "description": "Зомби-апокалипсис: заражённые, мутанты, оружие и боеприпасы.",
+  "authors": ["You"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["kz.zombiemod.ZombieMod"],
+    "client": ["kz.zombiemod.client.ZombieModClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.5",
+    "minecraft": "~26.3",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}

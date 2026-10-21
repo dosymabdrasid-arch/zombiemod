@@ -1,0 +1,14 @@
+{
+  "item.zombiemod.bullet": "Патрон",
+  "item.zombiemod.shell": "Патрон для дробовика",
+  "item.zombiemod.bandage": "Бинт",
+  "item.zombiemod.bat": "Бейсбольная бита",
+  "item.zombiemod.machete": "Мачете",
+  "item.zombiemod.pistol": "Пистолет",
+  "item.zombiemod.shotgun": "Дробовик",
+  "item.zombiemod.rifle": "Автомат",
+  "entity.zombiemod.runner": "Бегун",
+  "entity.zombiemod.toxic": "Токсичный",
+  "entity.zombiemod.brute": "Громила",
+  "entity.zombiemod.tyrant": "Тиран"
+}

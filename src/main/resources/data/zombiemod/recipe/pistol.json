@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "III",
+    "IP"
+  ],
+  "key": {
+    "I": "minecraft:iron_ingot",
+    "P": "#minecraft:planks"
+  },
+  "result": {
+    "id": "zombiemod:pistol",
+    "count": 1
+  }
+}

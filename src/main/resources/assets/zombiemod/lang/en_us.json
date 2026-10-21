@@ -1,0 +1,14 @@
+{
+  "item.zombiemod.bullet": "Bullet",
+  "item.zombiemod.shell": "Shotgun Shell",
+  "item.zombiemod.bandage": "Bandage",
+  "item.zombiemod.bat": "Baseball Bat",
+  "item.zombiemod.machete": "Machete",
+  "item.zombiemod.pistol": "Pistol",
+  "item.zombiemod.shotgun": "Shotgun",
+  "item.zombiemod.rifle": "Assault Rifle",
+  "entity.zombiemod.runner": "Runner",
+  "entity.zombiemod.toxic": "Toxic",
+  "entity.zombiemod.brute": "Brute",
+  "entity.zombiemod.tyrant": "Tyrant"
+}
